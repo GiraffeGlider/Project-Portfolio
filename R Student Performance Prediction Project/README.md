@@ -6,7 +6,7 @@
 
 - **Number of Variables:** 33
 - **Number of Entries:** 396
-- **Factors and Database Information:** [Link Here](#) *(replace # with the actual link if available)*
+- **Factors and Database Information:** [Link Here](https://archive.ics.uci.edu/dataset/320/student+performance) 
 
 ## Summary:
 
@@ -29,3 +29,7 @@
 - Various support factors encourage the pursuit of **higher education**.
 
 ## Table of Contents:
+1. [Student Performance R Script] (https://github.com/GiraffeGlider/Project-Portfolio/blob/0bc2d0e5a80a4a4421a02b0f02989b328caa9e58/R%20Student%20Performance%20Prediction%20Project/Student%20Performance%20R%20Script.R)
+2. [Student Performance Presentation Slides] (https://github.com/GiraffeGlider/Project-Portfolio/blob/0bc2d0e5a80a4a4421a02b0f02989b328caa9e58/R%20Student%20Performance%20Prediction%20Project/Student%20Perfomance%20Pres%20Slides.pdf)
+3. [Variables Legend] (https://github.com/GiraffeGlider/Project-Portfolio/blob/0bc2d0e5a80a4a4421a02b0f02989b328caa9e58/R%20Student%20Performance%20Prediction%20Project/Variables%20Legend.pdf) 
+4. [Cleaned Student Database] (https://github.com/GiraffeGlider/Project-Portfolio/blob/0bc2d0e5a80a4a4421a02b0f02989b328caa9e58/R%20Student%20Performance%20Prediction%20Project/Cleaned%20Student%20Database.csv)
