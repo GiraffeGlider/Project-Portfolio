@@ -1,7 +1,5 @@
 #Authors: Jaiden Angeles & Tianci Qiao
 #Date: April 5, 2023
-#Class: BUS 464 D200 - Business Data Management
-#Prof: Aishwarya Deep Shukla
 #Assignment: Final Project - Field Exercise as a Database Architect for an On-Campus Business
 #Topic: C-Lovers Fish & Chips Database
 
