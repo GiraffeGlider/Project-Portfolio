@@ -1,7 +1,17 @@
 # mySQL C-Lovers Data Architecture Project
 This was a two-man project led by Jaiden Angeles alongside Tianci Qiao
 
-**Purpose:** Create a realistic and usable database based off a restaurant: C-Lovers.
+**Objective:** Create a realistic and usable database based off a restaurant: C-Lovers.
+
+## Summary:
+
+- **Focus:** Development of a real-world MySQL database for "C-Lovers Fish & Chips", a native British Columbia restaurant chain.
+- **Methods:** Combination of field research, online resources, and AI-enhanced programming.
+- **Outcome:** Formation of an ER-Diagram detailing pivotal entities and attributes.
+- **Data Sourcing:** Integration of public data, supplemented with reasonable assumptions when needed.
+- **Functionality:** Devised SQL queries for practical use cases and reports, essential for a store manager's operations.
+- **Significance:** Exemplifies the blend of human expertise with AI tools in real-world database architecture.
+
 
 ## Table of Contents:
 1. [C-Lovers Conceptual Database](https://github.com/GiraffeGlider/Project-Portfolio/blob/db4bd4dc6a58d638502a8e9c89be4019f3b1cb87/mySQL%20C-Lovers%20Data%20Architecture%20Project/C-Lovers%20Conceptual%20Database.sql)
