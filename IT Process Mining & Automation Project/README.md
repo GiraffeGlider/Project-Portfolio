@@ -1,8 +1,8 @@
 # Optimizing the Emergency Room Visit Times for Patients With Sepsis
 
-**Collaborators:** Jaiden Angeles, Vaibhav Arora, Rakshit Jain, Alier Makhmutkhodzhaev /n
-**Course:** Business MIS - Capstone - Managing IT for Business Value \n
-**Date:** April 13, 2023  \n
+- **Collaborators:** Jaiden Angeles, Vaibhav Arora, Rakshit Jain, Alier Makhmutkhodzhaev
+- **Course:** Business MIS - Capstone - Managing IT for Business Value
+- **Date:** April 13, 2023 
 
 **Objective:** Examine existing emergency department processes for sepsis patients and propose a solution to optimize wait times using process mining and automation.
 
