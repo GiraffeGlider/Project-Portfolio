@@ -1,6 +1,6 @@
 # Python Data Sci Coursera Project (Tesla & GameStop)
-Assignment Created by: Azim Hirjani, Joseph Santarcangelo
-Code done by: Jaiden Angeles
+- Assignment Created by: Azim Hirjani, Joseph Santarcangelo
+- Code done by: Jaiden Angeles
 
 **Objective:** Extract essential data from a dataset and a website (Yahoo), then visualize the data in an informative graph to enable informed decision-making.
 
