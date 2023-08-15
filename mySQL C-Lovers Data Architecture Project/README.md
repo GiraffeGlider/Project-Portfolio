@@ -1,5 +1,5 @@
 # mySQL C-Lovers Data Architecture Project
-This was a two-man project led by Jaiden Angeles alongside Tianci Qiao
+**Collaboration**: This was a two-man project led by Jaiden Angeles alongside Tianci Qiao
 
 **Objective:** Create a realistic and usable database based off a restaurant: C-Lovers.
 
