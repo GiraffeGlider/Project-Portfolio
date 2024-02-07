@@ -14,3 +14,5 @@
 
 
 ## Table of Contents:
+1. [PythonCode Titanic ML from Disaster](https://github.com/jaidenangeles/Project-Portfolio/blob/main/Python%20Titanic%3A%20Machine%20Learning%20from%20Disaster%20Challenge%20(Kaggle)/PythonCode%20Titanic%20ML%20from%20Disaster.ipynb)
+2. [titanic_predictions from PythonCode](https://github.com/jaidenangeles/Project-Portfolio/blob/main/Python%20Titanic%3A%20Machine%20Learning%20from%20Disaster%20Challenge%20(Kaggle)/titanic_predictions%20from%20PythonCode.xlsx)
