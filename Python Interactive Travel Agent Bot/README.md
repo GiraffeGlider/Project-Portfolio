@@ -1,7 +1,7 @@
 # Python Interactive Travel Agent Bot
 **Contributors**: Jaiden Angeles, Dhruv Jindal
 
-**Objective:** Predict survival on the Titanic using ML.
+**Objective:** Predict survival on the Titanic using ML
 
 ## Summary:
 
@@ -14,3 +14,4 @@
 
 
 ## Table of Contents:
+1. [PythonCode Interactive Travel Agent Bot](https://github.com/jaidenangeles/Project-Portfolio/blob/main/Python%20Interactive%20Travel%20Agent%20Bot/PythonCode%20Travel%20Agent%20Bot.py)
