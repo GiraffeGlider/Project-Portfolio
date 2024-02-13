@@ -1,7 +1,15 @@
 # Project Management for Upcoming AI Device
+# Project Sponsor: 
+Simran Gill
+
+# Project Leader:
+Jaiden Angeles
+
+# Team Members:
+Emily Chan, Yuling Dai, Daisy Huynh, James Lee, Tianci Qiao
 
 ## Overview
-This project showcases the management and execution of a strategic initiative focused on an innovative AI device, conducted from September 2022 to December 2022 using Agile project management methodologies. A team of five was led to not only develop but also implement a strategic marketing plan for a cutting-edge AI device. This device is uniquely designed to recognize and store logos from railway freight cars, enabling detailed data analysis for commercial use.
+This project showcases the management and execution of a strategic initiative focused on an innovative AI device, conducted from September 2022 to December 2022 using Agile project management methodologies. A team of five was led by Jaiden as the project leader to develop and implement a strategic marketing plan for a cutting-edge AI device. This device is uniquely designed to recognize and store logos from railway freight cars, enabling detailed data analysis for commercial use.
 
 ## Achievements
 - **Strategic Marketing Plan Development:** Spearheaded the creation of a comprehensive marketing strategy for the AI device, targeting its unique capability to revolutionize data collection from railway freight cars.
