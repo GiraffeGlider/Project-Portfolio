@@ -1,11 +1,11 @@
 # Project Management for Upcoming AI Device
-** Project Sponsor: **
+**Project Sponsor:**
 Simran Gill
 
-** Project Leader: **
+**Project Leader:**
 Jaiden Angeles
 
-** Team Members: **
+**Team Members:**
 Emily Chan, Yuling Dai, Daisy Huynh, James Lee, Tianci Qiao
 
 ## Overview
