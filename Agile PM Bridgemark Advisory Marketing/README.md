@@ -11,6 +11,8 @@ Emily Chan, Yuling Dai, Daisy Huynh, James Lee, Tianci Qiao
 ## Overview
 This project showcases the management and execution of a strategic initiative focused on an innovative AI device, conducted from September 2022 to December 2022 using Agile project management methodologies. A team of five was led by Jaiden as the project leader to develop and implement a strategic marketing plan for a cutting-edge AI device. This device is uniquely designed to recognize and store logos from railway freight cars, enabling detailed data analysis for commercial use.
 
+**Software used:** Visio, Trello, Word, Excel, PowerPoint
+
 ## Achievements
 - **Strategic Marketing Plan Development:** Spearheaded the creation of a comprehensive marketing strategy for the AI device, targeting its unique capability to revolutionize data collection from railway freight cars.
 - **Agile Project Management:** Employed agile methodologies to ensure the project's adaptability and responsiveness to change, facilitating timely delivery of all project milestones and deliverables.
